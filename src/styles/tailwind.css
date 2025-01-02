@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes slide-infinite {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.animate-slide-infinite {
+  animation: slide-infinite 10s linear infinite;
+}
+
+.navbar {
+  @apply bg-yellow-500 shadow-lg fixed top-0 left-0 w-full z-50;
+}
+
+.navbar .container {
+  @apply flex justify-between items-center py-4;
+}
+
+.navbar a {
+  @apply text-black hover:text-white transition duration-300;
+}
