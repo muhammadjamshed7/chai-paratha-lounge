@@ -9,16 +9,16 @@ const chefs = [
     image: '/assets/images/mud.jpeg',
   },
   {
-    name: 'Chef Jane Smith',
-    position: 'Sous Chef',
+    name: 'Muhammad Rehan',
+    position: 'Manager',
     phone: '+0987654321',
-    image: '/assets/images/mud.jpeg',
+    image: '/assets/images/reh.jpeg',
   },
   {
-    name: 'Chef Emily Johnson',
-    position: 'Pastry Chef',
+    name: 'Ahmad Khan',
+    position: 'Senior Chef',
     phone: '+1122334455',
-    image: '/assets/images/mud.jpeg',
+    image: '/assets/images/ahmad.jpeg',
   },
 ];
 
