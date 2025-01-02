@@ -34,7 +34,7 @@ const Chef = () => {
                 component="img"
                 alt={`${chef.name} Image`}
                 image={chef.image}
-                style={{ height: '300px', width: '100%', objectFit: 'cover' }}
+                style={{ height: '450px', width: '100%', objectFit: 'cover' }}
               />
               <CardContent>
                 <Typography variant="h5" component="div">
