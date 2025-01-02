@@ -11,13 +11,13 @@ const chefs = [
   {
     name: 'Muhammad Rehan',
     position: 'Manager',
-    phone: '+0987654321',
+    phone: '+92 344 9693996',
     image: '/assets/images/reh.jpeg',
   },
   {
     name: 'Ahmad Khan',
     position: 'Senior Chef',
-    phone: '+1122334455',
+    phone: '+92 336 5861968',
     image: '/assets/images/ahmad.jpeg',
   },
 ];
